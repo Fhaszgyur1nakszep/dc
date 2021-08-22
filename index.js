@@ -69,4 +69,4 @@ bot.on('guildMemberAdd', (member) => {
     member.send(embed)
 })
 
-bot.login("Nzc3NjE0ODU0MDk2ODE0MDkx.X7GARA.fsxcwb0gok9LqkTxAvvcAKJOw98")
+bot.login("ODc5MDA0MDU5MjYzMTg0OTY2.YSJaUg.FsGgIhStCvXc98Lj5orUv9NDm3w")
